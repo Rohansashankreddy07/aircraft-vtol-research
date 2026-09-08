@@ -1,0 +1,27 @@
+{
+  "id": "aircraft",
+  "name": "Aircraft",
+  "subtitle": "Experimental VTOL research",
+  "category": "Robotics & hardware",
+  "status": "Prototype research",
+  "icon": "aircraft",
+  "summary": "An instrumented electric VTOL demonstrator exploring intake design, tilting propulsion, and the transition to forward flight.",
+  "overview": "The aircraft project investigates a circular nose intake, a tilting front electric ducted fan, and rear thrust vectoring. The approximately 2 kg prototype is intended as a technology demonstrator for collecting data and refining the concept.",
+  "current_state": "The project is at the concept and engineering-validation stage. Stable hover, flight transition, final dimensions, and larger-scale feasibility have not been demonstrated in the supplied handoff.",
+  "highlights": [
+    "Explore front and rear electric propulsion integration and controlled tilt mechanisms.",
+    "Measure thrust, electrical power, temperatures, airflow, and mechanical behavior.",
+    "Use staged experiments to investigate hover, transition, and cruise before considering larger aircraft."
+  ],
+  "next_focus": "Resolve the propulsion and mass budget, then instrument and test the intake and tilt mechanism. Larger-scale feasibility requires separate validation.",
+  "tags": [
+    "Electric ducted fans",
+    "Tilt mechanisms",
+    "Experimental validation"
+  ],
+  "repository_slug": "aircraft-vtol-research",
+  "repository_url": "https://github.com/Rohansashankreddy07/aircraft-vtol-research",
+  "sources": [
+    "Pasted text.txt — Aircraft project handoff"
+  ]
+}
